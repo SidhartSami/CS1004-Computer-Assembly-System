@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SidhartSami/Computer-Assembly-System">
+  <a href="https://github.com/SidhartSami/CS1004-Computer-Assembly-System">
     <img src="images/logo.png" alt="Computer Assembly Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     A comprehensive Object-Oriented Programming project demonstrating class hierarchy and component composition for building custom PC and Mac systems.
     <br />
-    <a href="https://github.com/SidhartSami/Computer-Assembly-System"><strong>Explore the Repository »</strong></a>
+    <a href="https://github.com/SidhartSami/CS1004-Computer-Assembly-System"><strong>Explore the Repository »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SidhartSami/Computer-Assembly-System">View Code</a>
+    <a href="https://github.com/SidhartSami/CS1004-Computer-Assembly-System">View Code</a>
     ·
-    <a href="https://github.com/SidhartSami/Computer-Assembly-System/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/SidhartSami/CS1004-Computer-Assembly-System/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/SidhartSami/Computer-Assembly-System/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/SidhartSami/CS1004-Computer-Assembly-System/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -168,12 +168,12 @@ You will need the following to compile and run this project:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/SidhartSami/Computer-Assembly-System.git
+   git clone https://github.com/SidhartSami/CS1004-Computer-Assembly-System.git
    ```
 
 2. Navigate to the project directory
    ```sh
-   cd Computer-Assembly-System
+   cd CS1004-Computer-Assembly-System
    ```
 
 3. Verify the file structure
@@ -223,7 +223,7 @@ ComputerAssembly.exe
 ## Project Structure
 
 ```
-Computer-Assembly-System/
+CS1004-Computer-Assembly-System/
 ├── Code/                        # C++ source files
 │   ├── ALU.h                    # ALU class header
 │   ├── ALU.cpp                  # ALU class implementation
@@ -420,7 +420,7 @@ Email: [sidhart.sami@gmail.com](mailto:sidhart.sami@gmail.com)
 
 GitHub: [@SidhartSami](https://github.com/SidhartSami)
 
-Project Link: [https://github.com/SidhartSami/Computer-Assembly-System](https://github.com/SidhartSami/Computer-Assembly-System)
+Project Link: [https://github.com/SidhartSami/CS1004-Computer-Assembly-System](https://github.com/SidhartSami/CS1004-Computer-Assembly-System)
 
 Course: CS-1004 Object Oriented Programming, FAST NUCES Islamabad, Spring 2024
 
@@ -441,15 +441,15 @@ Special thanks to the following resources and institutions:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/SidhartSami/Computer-Assembly-System.svg?style=for-the-badge
-[contributors-url]: https://github.com/SidhartSami/Computer-Assembly-System/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SidhartSami/Computer-Assembly-System.svg?style=for-the-badge
-[forks-url]: https://github.com/SidhartSami/Computer-Assembly-System/network/members
-[stars-shield]: https://img.shields.io/github/stars/SidhartSami/Computer-Assembly-System.svg?style=for-the-badge
-[stars-url]: https://github.com/SidhartSami/Computer-Assembly-System/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SidhartSami/Computer-Assembly-System.svg?style=for-the-badge
-[issues-url]: https://github.com/SidhartSami/Computer-Assembly-System/issues
-[license-shield]: https://img.shields.io/github/license/SidhartSami/Computer-Assembly-System.svg?style=for-the-badge
-[license-url]: https://github.com/SidhartSami/Computer-Assembly-System/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/SidhartSami/CS1004-Computer-Assembly-System.svg?style=for-the-badge
+[contributors-url]: https://github.com/SidhartSami/CS1004-Computer-Assembly-System/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SidhartSami/CS1004-Computer-Assembly-System.svg?style=for-the-badge
+[forks-url]: https://github.com/SidhartSami/CS1004-Computer-Assembly-System/network/members
+[stars-shield]: https://img.shields.io/github/stars/SidhartSami/CS1004-Computer-Assembly-System.svg?style=for-the-badge
+[stars-url]: https://github.com/SidhartSami/CS1004-Computer-Assembly-System/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SidhartSami/CS1004-Computer-Assembly-System.svg?style=for-the-badge
+[issues-url]: https://github.com/SidhartSami/CS1004-Computer-Assembly-System/issues
+[license-shield]: https://img.shields.io/github/license/SidhartSami/CS1004-Computer-Assembly-System.svg?style=for-the-badge
+[license-url]: https://github.com/SidhartSami/CS1004-Computer-Assembly-System/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/i
