@@ -1,7 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -169,12 +168,12 @@ You will need the following to compile and run this project:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/SidhartSami/CS1004-Computer-Assembly-System.git
+   git clone https://github.com/SidhartSami/Computer-Assembly-System.git
    ```
 
 2. Navigate to the project directory
    ```sh
-   cd CS1004-Computer-Assembly-System
+   cd Computer-Assembly-System
    ```
 
 3. Verify the file structure
@@ -224,7 +223,7 @@ ComputerAssembly.exe
 ## Project Structure
 
 ```
-CS1004-Computer-Assembly-System/
+Computer-Assembly-System/
 ├── Code/                        # C++ source files
 │   ├── ALU.h                    # ALU class header
 │   ├── ALU.cpp                  # ALU class implementation
@@ -453,4 +452,7 @@ Special thanks to the following resources and institutions:
 [license-shield]: https://img.shields.io/github/license/SidhartSami/CS1004-Computer-Assembly-System.svg?style=for-the-badge
 [license-url]: https://github.com/SidhartSami/CS1004-Computer-Assembly-System/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/i
+[linkedin-url]: https://linkedin.com/in/sidhart-sami
+[product-screenshot]: images/screenshot.png
+[Cpp.com]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[Cpp-url]: https://cplusplus.com/
